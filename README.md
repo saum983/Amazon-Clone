@@ -1,11 +1,10 @@
-# Amazon Clone (HTML & CSS)
+# Amazon Clone
 
-A **static Amazon clone** built entirely with **HTML and CSS**, replicating the look and feel of Amazon's website. This project focuses on **front-end design** without any JavaScript or backend functionality. 
-Perfect for beginners to learn layout, styling, and responsive design.
+A static Amazon clone, replicating the look and feel of Amazon's website. This project focuses on front-end design without any JavaScript or backend functionality. Perfect for beginners to learn layout, styling, and responsive design.
 
 ## Project Overview
 
-This project aims to recreate the visual appearance of **Amazon** using only HTML and CSS. It includes:
+This project aims to recreate the visual appearance of Amazon using only HTML and CSS. It includes:
 
 - A **header** with logo, search bar, and navigation links.
 - A **responsive product grid** with images, product names, and prices.
