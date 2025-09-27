@@ -1,6 +1,6 @@
 # Amazon Clone
 
-A static Amazon clone, replicating the look and feel of Amazon's website. This project focuses on front-end design without any JavaScript or backend functionality. Perfect for beginners to learn layout, styling, and responsive design.
+A static Amazon clone, replicating the look and feel of Amazon's website. This project focuses on front-end design without any JavaScript or backend functionality.
 
 ## Project Overview
 
